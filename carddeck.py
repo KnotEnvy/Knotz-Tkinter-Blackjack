@@ -100,9 +100,6 @@ def deal_cards():
 
     except:
         root.title(f'CardDeck - No Cards Left Kracka!!')
-        
-
-    
 
 my_frame= Frame(root, bg="green")
 my_frame.pack(pady=20)
