@@ -1,6 +1,6 @@
 # Knotz Card Games
 
-This is a card game project that includes several classic card games, such as Knotz Blackjack, Knotz War, and Knotz 5 Card. You can play these games online with other players or against the computer. The project is written in Python and uses the Pygame library for graphics and sound.
+This is a card game project that includes several classic card games, such as Knotz Blackjack, Knotz War, and Knotz 5 Card. You can play these games locally with other players or against the computer. The project is written in Python and uses the Pygame library for graphics and sound.
 
 ## Features
 
@@ -20,7 +20,7 @@ After installing Python and Pygame, you can clone this repository or download th
 
 ```bash
 cd knotz-card-games
-python main.py
+python carddeck.py or war.py or blackjack.py or 5card.py
 ```
 
 ## How to Play
@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-This project was inspired by multiple tutorials on how to make a blackjack games in Python.
+This project was inspired by multiple tutorials on how to make blackjack games in Python.
 
 The card images are included in the project.
 
